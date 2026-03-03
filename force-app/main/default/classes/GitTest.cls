@@ -1,6 +1,6 @@
 public with sharing class GitTest {
     public GitTest() {
-      system.debug("Git Push");
+      system.debug('Git Push');
 
     }
 }
