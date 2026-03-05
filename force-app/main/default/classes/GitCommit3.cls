@@ -3,6 +3,5 @@ public with sharing class GitCommit3 {
 
 
         system.debug('Git commit 3');
-        system.debug('Git commit 3 New line');
     }
 }
